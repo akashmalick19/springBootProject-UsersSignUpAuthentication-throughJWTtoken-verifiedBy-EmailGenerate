@@ -1,6 +1,6 @@
 # springBootProject-UsersSignUpAuthentication-throughJWTtoken-verifiedBy-EmailGenerate
 
-ProjectDescriptions:  
+	ProjectDescriptions:  
 		      This project is Spring Boot Security Base project.Here uses JWT (Json Web Token) security for Authorization and Authentication purpose.
 		      Here also JWT is generated for SignUp Or register new Normal_user and Admin_User, and Email generate feature is added for Users who are existing inside Data base.
 		      Here I create many operations of CURD APIs for fetch data, store data, updating data, inserting data and manipulating of data into the Data Base.
@@ -10,7 +10,7 @@ ProjectDescriptions:
 		      Initially when SignUp a Seller and sellers details is save inside Seller Table and also here create JWT token and its verify through mail service,after that this token is stored inside Token Table.
 		      Also when Do any CURD operations on existing Data at that time need for JWT security Authorization and Authentication and at the same time this Token is verified through mail service.
 		
-		Corn Scheduling:- 
+	Corn Scheduling:- 
 		   One method ( public void displayAllSeller(){} ) is used to repeatedly show entier seller's details by using Corn Scheduling features.  
 
 	APIs Used :- 
